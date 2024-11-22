@@ -1,0 +1,15 @@
+.text-adjust {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    border-color: #000;
+}
+
+.button1 {
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
+
+.button2 {
+    background-color: #ffd900;
+    color: #000;
+}
